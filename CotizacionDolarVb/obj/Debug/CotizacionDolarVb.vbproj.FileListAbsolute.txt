@@ -1,0 +1,9 @@
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\bin\Debug\CotizacionDolarVb.exe.config
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\obj\Debug\CotizacionDolarVb.Resources.resources
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\obj\Debug\CotizacionDolarVb.vbproj.GenerateResource.Cache
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\bin\Debug\CotizacionDolarVb.exe
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\bin\Debug\CotizacionDolarVb.pdb
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\bin\Debug\CotizacionDolarVb.xml
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\obj\Debug\CotizacionDolarVb.exe
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\obj\Debug\CotizacionDolarVb.xml
+S:\Programacion\CotizacionDolarVb\CotizacionDolarVb\CotizacionDolarVb\obj\Debug\CotizacionDolarVb.pdb
